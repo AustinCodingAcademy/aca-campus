@@ -97,7 +97,7 @@
     "morgan": "1.9.1",
     "nightwatch": "^0.9.8",
     "node-fetch": "^1.6.3",
-    "node-sass": "3.11.1",
+    "node-sass": "4.13.1",
     "nodemailer": "2.6.4",
     "nodemailer-mandrill-transport": "kevincolten/nodemailer-mandrill-transport",
     "nodemon": "^1.11.0",
