@@ -96,7 +96,7 @@
     "mongoose-version": "^1.0.0",
     "morgan": "1.9.1",
     "nightwatch": "^0.9.8",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "node-sass": "3.11.1",
     "nodemailer": "2.6.4",
     "nodemailer-mandrill-transport": "kevincolten/nodemailer-mandrill-transport",
